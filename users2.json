@@ -1,0 +1,90 @@
+{
+    "1857477244": {
+        "first_name": "Владимир",
+        "last_name": null,
+        "full_name": "Владимир",
+        "in_game": false,
+        "secret_number": 20,
+        "attempts": 1,
+        "total_games": 23,
+        "wins": 14,
+        "date": "22:07:39 - 28.04.23"
+    },
+    "717249990": {
+        "first_name": "Ирина",
+        "last_name": null,
+        "full_name": "Ирина",
+        "in_game": false,
+        "secret_number": null,
+        "attempts": null,
+        "total_games": 1,
+        "wins": 0,
+        "date": "22:10:10 - 28.04.23"
+    },
+    "377485952": {
+        "first_name": "Павел",
+        "last_name": "Нюхалов",
+        "full_name": "Павел Нюхалов",
+        "in_game": false,
+        "secret_number": null,
+        "attempts": null,
+        "total_games": 0,
+        "wins": 0,
+        "date": "19:46:36 - 01.05.23"
+    },
+    "1330129329": {
+        "first_name": "Петрушин",
+        "last_name": "Владимир",
+        "full_name": "Петрушин Владимир",
+        "in_game": false,
+        "secret_number": null,
+        "attempts": null,
+        "total_games": 0,
+        "wins": 0,
+        "date": "15:10:33 - 02.05.23"
+    },
+    "5240431188": {
+        "first_name": "Алина",
+        "last_name": null,
+        "full_name": "Алина",
+        "in_game": false,
+        "secret_number": 9,
+        "attempts": 3,
+        "total_games": 1,
+        "wins": 1,
+        "date": "15:15:34 - 02.05.23"
+    },
+    "1168055719": {
+        "first_name": "Елизавета",
+        "last_name": "Сергеевна",
+        "full_name": "Елизавета Сергеевна",
+        "in_game": false,
+        "secret_number": 56,
+        "attempts": 0,
+        "total_games": 1,
+        "wins": 0,
+        "date": "15:21:20 - 02.05.23"
+    },
+    "1226357323": {
+        "first_name": "Архип",
+        "last_name": null,
+        "full_name": "Архип",
+        "in_game": false,
+        "secret_number": 14,
+        "attempts": 2,
+        "total_games": 3,
+        "wins": 1,
+        "date": "16:04:02 - 02.05.23"
+    },
+    "595890702": {
+        "first_name": "Ара",
+        "last_name": null,
+        "full_name": "Ара",
+        "in_game": false,
+        "secret_number": null,
+        "attempts": null,
+        "total_games": 0,
+        "wins": 0,
+        "date": "21:42:33 - 02.05.23"
+    }
+}
